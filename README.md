@@ -3,8 +3,8 @@ Information Gathering Techiques
 
 # To perform information gathering techniques
 
-### NAME: HAFEEZUL DEEN S
-### REG. NO: 212223220028
+### NAME: BHUVANESH KUMAR
+### REG. NO: 212223040027
 
 # AIM:
 
